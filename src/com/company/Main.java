@@ -13,6 +13,7 @@ public class Main  {
 
       Person p = new Person("Andrey", "Rof", Gender.MALE);
       Person person2 = new Person("Sergey","Azz", Gender.MALE);
+      Person person3 = new Person("Vik","Cop", Gender.FEMALE);
 
 
 

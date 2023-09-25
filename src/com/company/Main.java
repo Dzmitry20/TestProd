@@ -11,7 +11,7 @@ public class Main  {
         System.out.println(index);
 
 
-        Person person1 = new Person("Andrey","Rof", Gender.MALE);
+      Person p = new Person("Andrey", "Rof", Gender.MALE);
 
 
 

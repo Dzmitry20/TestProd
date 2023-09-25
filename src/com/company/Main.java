@@ -9,8 +9,8 @@ public class Main  {
 
         int index = 118 & 15;
         System.out.println(index);
-        System.out.println(index);
-        System.out.println(index);
+
+
 
 
 

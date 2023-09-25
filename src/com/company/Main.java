@@ -13,6 +13,12 @@ public class Main  {
 
       Person p = new Person("Andrey", "Rof", Gender.MALE);
 
+        List<Person> list = new ArrayList<>();
+            list.add(p);
+
+
+
+
 
 
 
